@@ -1,3 +1,9 @@
 [submodule "Custom-Git-Hooks-for-Automated-Workflow"]
 	path = Custom-Git-Hooks-for-Automated-Workflow
 	url = https://github.com/mark79-github/Custom-Git-Hooks-for-Automated-Workflow.git
+[submodule "Rewriting-and-Cleaning-Up-Git-History"]
+	path = Rewriting-and-Cleaning-Up-Git-History
+	url = https://github.com/mark79-github/Rewriting-and-Cleaning-Up-Git-History.git
+[submodule "Optimizing-Large-Repositories"]
+	path = Optimizing-Large-Repositories
+	url = https://github.com/mark79-github/Optimizing-Large-Repositories.git
