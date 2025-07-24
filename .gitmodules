@@ -7,3 +7,6 @@
 [submodule "Optimizing-Large-Repositories"]
 	path = Optimizing-Large-Repositories
 	url = https://github.com/mark79-github/Optimizing-Large-Repositories.git
+[submodule "Put-It-All-Together"]
+	path = Put-It-All-Together
+	url = https://github.com/mark79-github/Put-It-All-Together.git
